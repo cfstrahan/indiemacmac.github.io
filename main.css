@@ -1,0 +1,34 @@
+body {
+	background-color: #9FB4D8;
+	border: 6px solid black;
+  	margin: 2px;
+  	text-align: left;
+  	padding: 30px;
+  	font-family:  Palatino, 'Palatino Linotype', serif;
+ }
+
+h1 {
+	font-size: 48px;
+	text-align: center;
+
+} 
+.contact-info {
+	text-align: center;
+}
+h2 {
+	font-style: italic;
+	text-decoration: underline;
+	text-align: center; 
+}
+h3 {
+	margin-left: 1px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+h4 {
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.purple {
+	margin-bottom: 20px;
+}
